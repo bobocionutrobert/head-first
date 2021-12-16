@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yHcbBA7Swfp4/rgr+1EHe7UEcql/FYUe2Ew9tFIkCJGsQJFpee9pKmXtA1Mw6vMN7mb4M1OWSpEZQQXkxpclg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\FullStackC#\\Head First C#\\AbilityScoreCalculator\\AbilityScoreCalculator\\AbilityScoreCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

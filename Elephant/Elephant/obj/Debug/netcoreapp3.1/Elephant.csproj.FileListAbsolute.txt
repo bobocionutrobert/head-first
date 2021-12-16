@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.exe
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.deps.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.runtimeconfig.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.dll
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\bin\Debug\netcoreapp3.1\Elephant.pdb
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.dll
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.pdb
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\Elephant\Elephant\obj\Debug\netcoreapp3.1\Elephant.genruntimeconfig.cache

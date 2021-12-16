@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.exe
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.deps.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.runtimeconfig.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.dll
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\bin\Debug\netcoreapp3.1\AbilityScoreCalculator.pdb
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.dll
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.pdb
+C:\Users\Asus\Desktop\FullStackC#\Head First C#\AbilityScoreCalculator\AbilityScoreCalculator\obj\Debug\netcoreapp3.1\AbilityScoreCalculator.genruntimeconfig.cache

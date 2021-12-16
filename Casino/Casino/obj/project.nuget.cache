@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmSnWgEHxrMf+bTV8R6UEMweonw7ukd9chzH6TTFIln6LGrx4mevVBoC228XIAaJZIJSK1Fd7KQGhuQ8JPN6mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\FullStackC#\\Head First C#\\Casino\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

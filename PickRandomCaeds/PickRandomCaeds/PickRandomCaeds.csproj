@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CardPicker.cs~RF1d5f4bc2.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Baseline" Version="3.2.2" />
+    <PackageReference Include="DryIoc.dll" Version="4.8.4" />
+    <PackageReference Include="LamarCodeGeneration" Version="4.0.0" />
+    <PackageReference Include="Uno.Core" Version="4.0.1" />
+  </ItemGroup>
+
+</Project>
